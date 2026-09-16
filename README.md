@@ -2,3 +2,5 @@
 #Class - Week 3
 
 #This assignment will help me practice using Git and GitHub with RStudio.
+
+Howdy
